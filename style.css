@@ -1,0 +1,22 @@
+div#navigate {
+	margin-right: 10px;
+	background-color: black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 2px;
+	text-align:center;
+}
+nav#navBar ul {
+	list-style: none;
+	display: inline-block;
+	padding: 4px 50px;
+}
+nav#navBar a {
+	color: #ffffff;
+	font-size: 10px;
+	text-decoration: none;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana, "sans-serif";
+	width: 100%;
+	
+	padding:60px;
+}
